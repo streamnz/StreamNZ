@@ -1,4 +1,4 @@
-# StreamNZ Gomoku AI Battle Platform
+# StreamNZ AI Game Platform
 
 > A Gomoku (Five-in-a-Row) battle and analysis platform based on Flask + React + Socket.IO + multiple AI models (DeepSeek/Llama3), supporting both local and cloud deployment, compatible with AWS, Amplify, EC2, ELB, and more.
 
