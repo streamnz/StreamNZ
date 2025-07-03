@@ -36,7 +36,7 @@ def create_app():
     ALLOWED_ORIGINS = [
     "https://www.streamnz.com",
     "https://streamnz.com",
-    "https://streamnz-api.streamnz.com",
+    "https://aigame.streamnz.com",
     "http://localhost:5051"
 ]
     # 初始化扩展
